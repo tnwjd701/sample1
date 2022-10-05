@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+test4_result.jsp
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,7 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Ãß°¡µÈ ³»¿ë</h1>
+	<h1>ÃƒÃŸÂ°Â¡ÂµÃˆ Â³Â»Â¿Ã«ã„´ã„´ã„´ã„´</h1>
 
 </body>
 </html>
